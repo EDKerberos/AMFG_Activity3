@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TestTower : MonoBehaviour
+public class Tower : MonoBehaviour
 {
     [Header("LOOKING ATT")]
     [SerializeField] private Transform target;

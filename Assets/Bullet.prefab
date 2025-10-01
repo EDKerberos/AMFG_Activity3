@@ -101,5 +101,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
+  killDist: 0.5
   travelSpeed: 15
   lifeSpan: 3
